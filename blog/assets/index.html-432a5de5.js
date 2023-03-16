@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0ad528","path":"/zh/","title":"testasdasd","lang":"中文","frontmatter":{},"headers":[],"git":{"updatedTime":1678953634000,"contributors":[{"name":"Oliver D. Chen","email":"Oliver_D_Chen@manulife.com","commits":1}]},"filePathRelative":"zh/README.md"}');export{e as data};

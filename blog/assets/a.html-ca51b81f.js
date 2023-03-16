@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9de56ee0","path":"/zh/otherPage/a.html","title":"","lang":"中文","frontmatter":{},"headers":[{"level":3,"title":"aaaa","slug":"aaaa","link":"#aaaa","children":[]}],"git":{"updatedTime":1678953634000,"contributors":[{"name":"Oliver D. Chen","email":"Oliver_D_Chen@manulife.com","commits":1}]},"filePathRelative":"zh/otherPage/a.md"}');export{e as data};
