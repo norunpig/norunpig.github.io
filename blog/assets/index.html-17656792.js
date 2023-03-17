@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"testasdasd","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1678953634000,"contributors":[{"name":"Oliver D. Chen","email":"Oliver_D_Chen@manulife.com","commits":2}]},"filePathRelative":"README.md"}');export{e as data};
